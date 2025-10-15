@@ -1,0 +1,6 @@
+@PackageDemo_HostAddress = http://localhost:5274
+
+GET {{PackageDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
